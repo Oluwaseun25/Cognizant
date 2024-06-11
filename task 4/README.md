@@ -1,4 +1,4 @@
-# PRODUCTIONN CODE
+# PRODUCTION CODE
 
 ## Introduction
 This README provides detailed guidance for the creation of a Python module, **module_train_model.py**, aimed at training machine learning models and outputting performance metrics. The module is intended to facilitate the transition of the machine learning algorithm from a Python notebook to a production-ready format. 
